@@ -1,9 +1,9 @@
 <template>
     <div class="container">
-      <h1 class="list-title">카트 페이지입니다!!</h1>
+      <h1 class="list-title">카트 페이지</h1>
       <CartList></CartList>
       <div class="extra-panel">
-        <button>구매하기!!!</button>
+        <button>구매하기</button>
       </div>
       <div class="cart-wrapper">
         <button class="btn" @click="buyThing">구매하기</button>
